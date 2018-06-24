@@ -1,5 +1,4 @@
-# bgl-token-public-sale
-BGL Token https://www.buglab.io
+# Buglab uses the power of Ethereum to enable attainable, versatile, and reliable penetration testing for digital enterprise solutions.
 
 ## What is Buglab?
 Buglab is a Ethereum-based platform that connects companies with a global network of expert cybersecurity researchers.
