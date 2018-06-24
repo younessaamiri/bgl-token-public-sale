@@ -7,15 +7,15 @@ At the center of our ecosystem, there are two programs - the buglab contest and 
 ## Contest
 Buglab links clients with a global network of certified cybersecurity penetration testers in an incentivized environment. The testers are rewarded based on their cumulative discoveries in time-limit competitions.
 
-Certified Pentesters
-Full Customization
+Certified Pentesters /
+Full Customization /
 Real-Time Collaboration
 
 ## Vigilante Protocol
 With this, buglab provides an avenue for whitehats to share their own vulnerability discoveries. We then work with CERTs all over the world to verify those discoveries and notify companies at risk.
 
-CERT & CSIRT Partnership
-Verified Reporting
+CERT & CSIRT Partnership /
+Verified Reporting /
 Automatic Rewards for Whitehats
 
 ## What are BGL Tokens?
